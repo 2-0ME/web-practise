@@ -1,0 +1,65 @@
+.registration h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.account_zone, .gender_zone{
+    display: flex;
+    justify-content: center;
+}
+
+.registration{
+    border: 3px solid #cef313;
+    background-color: #cef313;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    padding: 20px;
+    max-width: 300px;
+    font-family: 'Poppins', sans-serif;
+    color: #810981;
+}
+
+.account_zone, .gender_zone{
+    padding: 8px;
+    margin: 15px 0;
+}
+
+input[name="account"]{
+    margin-left: 50px;
+}
+
+input[name="gender"]{
+    margin-left: 50px;
+}
+
+.input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+hr{
+    max-width: 340px;
+}
+
+.btn{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #810981;
+    font-family: 'Poppins', sans-serif;
+    color: #cef313;
+}
+
+i{
+    height: 20.91px;
+    width: 20px;
+    text-align: center;
+    margin-bottom: 3px;
+    position: relative;
+}
