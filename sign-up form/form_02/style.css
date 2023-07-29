@@ -1,0 +1,78 @@
+.registration{
+    border: 2px solid gray;
+    margin-top: 200px;
+    margin-left: 120px;
+    width: 500px;
+    border-radius: 20%;
+    background-color: #0c0b0b;
+    color: #3190b8;
+}
+
+hr{
+    width: 80%;
+    margin-bottom: 30px;
+    border: 2px solid #3190b8;
+}
+
+h1{
+    text-align: center;
+}
+
+.nameEmail_ZOne{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nameField, .emailField{
+    background-color: #0c0b0b;
+    border: 2px solid #3190b8;
+}
+
+.radio_zone{
+    display: inline;
+}
+
+#something01{
+    accent-color:  #3190b8;
+}
+
+#something02{
+    accent-color:  #3190b8;
+}
+.confirmZone{
+    display: flex;
+    justify-content: space-around;
+}
+
+.confirm{
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 70px;
+    background-color: #0c0b0b;
+    border: 2px solid #3190b8;
+}
+
+.teleNumber{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: #0c0b0b;
+    border: 2px solid #3190b8;
+}
+
+.btnSubmit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 4px;
+    border-radius: 20%;
+    color: #3190b8;
+    background-color: #0c0b0b;
+    border: 2px solid #3190b8;
+}
