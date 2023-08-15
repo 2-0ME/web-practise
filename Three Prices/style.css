@@ -1,0 +1,50 @@
+/* add url to the ul li items to make icons there like copycat */
+/* repeat the above, but now with <p> usage */
+
+body{
+    /* background-color: #CDAC81; */
+    color: #CDAC81;
+}
+
+.Prices{
+    margin-top: 20px;
+    height: 400px;
+    background-color: #F5F4F4;
+    padding-top: 40px;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.small{ 
+    padding: 10px;
+}
+
+.medium{
+    text-align: center;
+    padding: 10px;
+}
+
+.large{
+    margin-left: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+ul{
+    list-style-image: url('sqpurple.gif');
+}
+
+.price{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+span{
+    font-size: 50px;
+}
+
+#slight-black{
+    color: rgb(107 114 128);
+}
