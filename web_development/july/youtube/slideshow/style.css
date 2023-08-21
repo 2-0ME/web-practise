@@ -1,0 +1,26 @@
+.slides-div{
+    text-align: center;
+}
+
+/* .slides-div img{
+    height: 180px;
+    margin-left: 80px;
+} */
+
+.btn-left{
+    position: absolute;
+    top: 140px;
+    left: 80px;
+}
+
+.btn-right{
+    position: absolute;
+    top: 140px;
+    right: 80px;
+}
+
+.mySlides {
+	display:block;
+    margin-left: auto;
+	margin-right: auto;
+}

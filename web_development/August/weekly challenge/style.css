@@ -1,0 +1,47 @@
+/* set font-family and font-size to copy the style there THEN make y own later on when I have made perfect copy */
+/* set the right color theme to make a perfect copy */
+
+@font-face {
+    font-family: QM;
+    src: url(fonts/QuiteMagicalRegular-8VA2.ttf);
+}
+
+h1{
+    font-family: QM;
+}
+.signup-page{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    max-width: 400px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+
+    padding: 30px;
+}
+
+.btn{
+    font-family: QM;
+    font-weight: 600;
+    padding: 10px 12px;
+    border-radius: 50px;
+    font-size: 10px;
+}
+
+#email-box{
+    height: 31.64px;
+    font-size: large;
+    margin-top: 10px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: #f0f0f0;
+    font-family: QM;
+    font-weight: 500;
+    width: 150px;
+}
+
+body{
+    background-color: beige;
+}
